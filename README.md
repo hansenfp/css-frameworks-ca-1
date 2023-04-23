@@ -1,2 +1,4 @@
-# css-frameworks-ca
-Replace this text with a description of your social media project.
+How to run project:
+
+npm i/install
+npm run build
