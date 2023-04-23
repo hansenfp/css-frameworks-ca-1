@@ -1,8 +1,13 @@
 <h1 align="center">Hi 👋, I'm Didrik Hansen</h1>
 <h3 align="center">A passionate frontend developer from Norway</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">How to:</h3>
 <p align="left">
+  Type:
+  
+  Npm i/install
+  Npm run build
+  Turn on live server
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
