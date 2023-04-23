@@ -1,0 +1,16 @@
+//custom variables
+$primary: #b4861a;
+$light: #161616;
+$gray:rgb(233, 233, 233);
+$banner: rgba(116, 116, 116);
+
+//import custom css
+@import "layout/attributes/fonts";
+@import "layout/profile";
+@import "layout/feed";
+@import "layout/navbar";
+@import "layout/main";
+@import "layout/login";
+
+//import bootstrap
+@import "../../node_modules/bootstrap/scss/bootstrap.scss";
