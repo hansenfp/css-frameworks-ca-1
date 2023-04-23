@@ -5,8 +5,8 @@
 <p align="left">
   Type:
   
-  Npm i/install
-  Npm run build
+  Npm i/install<br>
+  Npm run build<br>
   Turn on live server
 </p>
 
